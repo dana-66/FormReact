@@ -1,0 +1,2 @@
+Approach to Build Form in React
+To create a form in React we will structure the form with HTML inputs, add styles using CSS, manage input state using useState, and handle form data updates via onChange events.
